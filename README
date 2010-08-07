@@ -9,3 +9,4 @@ Mac OSX 10.6
 Python 2.6 64 bit 
 easy_install pyserial
 Serial port name in python code may be machine specific
+Structured to work as Nose unit test (optional)
