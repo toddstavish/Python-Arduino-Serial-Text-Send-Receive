@@ -1,0 +1,11 @@
+Description:
+------------
+PDE that sends text over serial port. Python code to receive the text and
+print it to standard out.
+
+Setup:
+------
+Mac OSX 10.6
+Python 2.6 64 bit 
+easy_install pyserial
+Serial port name in python code may be machine specific
